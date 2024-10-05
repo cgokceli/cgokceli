@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgokceli&langs_count=10&layout=compact&theme=dark&hide_border=true)
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1277461634&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=1277461634&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1277461634&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
