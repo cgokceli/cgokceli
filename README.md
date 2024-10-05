@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ![cgokceli](https://komarev.com/ghpvc/?username=cgokceli)
 -->
 
-![cgokceli's github stats](https://github-readme-stats.vercel.app/api?username=cgokceli&count_private=true&show_icons=true&theme=dark&hide_border=true)
+<!--![cgokceli's Stats](https://github-readme-stats.vercel.app/api?username=cgokceli&theme=dark&show_icons=true&hide_border=true&count_private=true)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgokceli&langs_count=10&layout=compact&theme=dark&hide_border=true)
+![cgokceli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgokceli&theme=dark&hide_border=true)
+
+![cgokceli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgokceli&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1277461634&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
