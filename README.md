@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![GitHub followers](https://img.shields.io/github/followers/cgokceli?label=Follow&style=social)](https://github.com/cgokceli/?tab=follow)
-![cgokceli](https://komarev.com/ghpvc/?username=cgokceli)
+![cgokceli](https://komarev.com/ghpvc/?username=cgokceli&color=red&style=flat)
+![cgokceli's Stats](https://github-readme-stats.vercel.app/api?username=cgokceli&theme=dark&show_icons=true&hide_border=true&count_private=true)
 -->
 
-<!--![cgokceli's Stats](https://github-readme-stats.vercel.app/api?username=cgokceli&theme=dark&show_icons=true&hide_border=true&count_private=true)-->
+[![GitHub followers](https://img.shields.io/github/followers/cgokceli?label=follow&style=social)](https://github.com/cgokceli) [![Linkedin](https://img.shields.io/badge/-Cengizhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokceli/)](https://www.linkedin.com/in/gokceli/)
 
 ![cgokceli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgokceli&theme=dark&hide_border=true)
 
