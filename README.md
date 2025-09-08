@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/cgokceli?label=follow&style=social)](https://github.com/cgokceli) [![Linkedin](https://img.shields.io/badge/-Cengizhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gokceli/)](https://www.linkedin.com/in/gokceli/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cgokceli)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgokceli&theme=dark)]
 
 ![cgokceli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgokceli&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
