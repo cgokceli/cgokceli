@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![cgokceli's Stats](https://github-readme-stats.vercel.app/api?username=cgokceli&theme=dark&show_icons=true&hide_border=true&count_private=true)
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/cgokceli?label=follow&style=social)](https://github.com/cgokceli) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokceli/)
+[![GitHub followers](https://img.shields.io/github/followers/cgokceli?label=follow&style=social)](https://github.com/cgokceli) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gokceli/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cgokceli&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
